@@ -1,16 +1,18 @@
-## Hi there 👋
+```python
+class Desenvolvedor:
+    pass
 
-<!--
-**elciofurtili/elciofurtili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim(Desenvolvedor):
+    def __init__(self):
+        self.nome = "Elcio Furtili"
+        self.area = "Pesquisador, Desenvolvedor, Cientista de Dados"
+        self.trabalho = "Pesquisador pela CAPES"
+        self.graduacao = "Doutorando"
+        self.faculdade = "UNESP"
 
-Here are some ideas to get you started:
+class Skills(Desenvolvedor):
+    def __init__(self):
+        self.linguagens = ["Python, C++, PHP, R, Java"]
+        self.frameworks = ["Django, PyTorch, Scikit-Learn, TensorFlow"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
