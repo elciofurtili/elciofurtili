@@ -16,3 +16,5 @@ class Skills(Desenvolvedor):
         self.frameworks = ["Django, PyTorch, Scikit-Learn, TensorFlow"]
 
 ```
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elciofurtili&layout=compact&theme=dracula)
