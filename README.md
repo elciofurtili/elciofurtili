@@ -15,4 +15,5 @@ class Skills(Desenvolvedor):
         self.linguagens = ["Python, C++, PHP, R, Java"]
         self.frameworks = ["Django, PyTorch, Scikit-Learn, TensorFlow"]
 
+Teste
 ```
