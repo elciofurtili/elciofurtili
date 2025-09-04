@@ -14,6 +14,4 @@ class Skills(Desenvolvedor):
     def __init__(self):
         self.linguagens = ["Python, C++, PHP, R, Java"]
         self.frameworks = ["Django, PyTorch, Scikit-Learn, TensorFlow"]
-
-Teste
 ```
